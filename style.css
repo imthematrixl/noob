@@ -1,0 +1,19 @@
+p{
+    font-size: large;
+}
+pre{
+    font-size: larger;
+}
+h1{
+  text-align: center;
+}
+body{
+    text-align: center;
+    
+}
+.container{
+        background: url("C:\Users\abano\OneDrive\Documents\GitHub\rgb\.git\rgb\AsteroidsGame\1aa2008c04d15f46d38b797cb1452ed4.gif") center;
+        background-size: cover;
+      
+        height: 100%;
+      }
